@@ -26,7 +26,4 @@ More projects will be added soon!
 7. **numpy_file** - Exercises related to NumPy (previous project).
 8. **Series_task** - Tasks related to series manipulation (previous project).
 =======
-- Added numpy_file.ipynb and updated README with information about NumPy exercises"
 
-- The file `Series_task.ipynb` contains assignments related to series analysis.
->>>>>>> 9b00b2299f9f78009e823a19c4aafdd3c8c14f79
