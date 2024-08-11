@@ -15,5 +15,7 @@ This repository contains a collection of my Python projects. Each project demons
 - Matplotlib
 
 More projects will be added soon!
-## Added numpy_file.ipynb and updated README with information about NumPy exercises"
-## The file `Series_task.ipynb` contains assignments related to series analysis.
+
+- Added numpy_file.ipynb and updated README with information about NumPy exercises"
+
+- The file `Series_task.ipynb` contains assignments related to series analysis.
