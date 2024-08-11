@@ -15,3 +15,12 @@ This repository contains a collection of my Python projects. Each project demons
 - Matplotlib
 
 More projects will be added soon!
+
+1. **Basics2_agg** - Aggregation techniques in Pandas.
+2. **Basic_time_series** - Introduction to time series analysis.
+3. **Basic_visualization** - Basic data visualization using Matplotlib.
+4. **Basics_df** - DataFrame basics in Pandas.
+5. **pandas_project** - A project using Pandas for data manipulation and analysis.
+6. **maze_solver** - A Python script to solve mazes (previous project).
+7. **numpy_file** - Exercises related to NumPy (previous project).
+8. **Series_task** - Tasks related to series manipulation (previous project).
